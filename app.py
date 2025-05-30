@@ -70,6 +70,8 @@ with st.sidebar:
             "container": {"padding": "0!important", "background-color": "#f0f2f6"},
             "icon": {"color": "#4F8BF9", "font-size": "22px"},
             "nav-link-selected": {"background-color": "#4F8BF9", "color": "white"},
+            "nav-link": {"color": "#222C36"}
+
         }
     )
 
